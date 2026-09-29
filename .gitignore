@@ -1,0 +1,10 @@
+﻿# generated artifacts -- never commit (large + contains real photos)
+html_assets/
+*_probe/thumbs/
+*.html
+data:*
+*.log
+_sanitize-report.txt
+_sanitize-leftovers.txt
+_skill-presanitize-backup/
+_sanitize-trial/
